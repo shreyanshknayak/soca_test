@@ -1,0 +1,7 @@
+embedchain
+fastapi
+mangum
+groq
+langchain-groq
+gpt4all
+uvicorn
